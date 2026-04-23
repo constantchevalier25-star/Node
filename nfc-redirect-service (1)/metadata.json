@@ -1,0 +1,6 @@
+{
+  "name": "NFC Redirect Service",
+  "description": "NFC redirect as a service platform allowing users to manage physical NFC cards and their corresponding URLs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
